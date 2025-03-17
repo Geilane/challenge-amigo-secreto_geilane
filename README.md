@@ -17,6 +17,7 @@ Clique em "Sortear" para escolher um nome aleatório.
 
 Autora:
 Geilane de Oliveira
+
 Projeto realizado como resultado do desafio Challenge Amigo Secreto, do curso One: Oracle Next Education.
 
 Licença:
